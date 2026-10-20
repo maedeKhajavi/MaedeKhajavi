@@ -12,12 +12,12 @@
 
 Hi, I'm **Maedeh Khajavai** ، a frontend developer passionate about building clean, responsive, and user-friendly web experiences.
 
-- 💻 Focused on **Frontend Development**
-- ⚛️ Building projects with **React and JavaScript**
-- 🎨 Interested in UI/UX and modern web design
-- 🔌 Practicing API integration and frontend security
-- 🚀 Exploring CI/CD, GitLab, and deployment workflows
-- 📚 Always learning and improving through real projects
+- Focused on **Frontend Development**
+- Building projects with **React and JavaScript**
+- Interested in UI/UX and modern web design
+- Practicing API integration and frontend security
+- Exploring CI/CD, GitLab, and deployment workflows
+- Always learning and improving through real projects
 
 ---
 
@@ -47,7 +47,7 @@ Hi, I'm **Maedeh Khajavai** ، a frontend developer passionate about building cl
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats :)
 
 <div align="center">
 
@@ -71,7 +71,7 @@ Hi, I'm **Maedeh Khajavai** ، a frontend developer passionate about building cl
 
 <div align="center">
 
-### ✨ Thanks for visiting my profile!
+###  Thanks for visiting my profile!✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D8C2A8,50:8F6F55,100:2B211B&height=100&section=footer" width="100%" alt="Decorative footer"/>
 
