@@ -24,7 +24,7 @@ Hi, I'm **Maedeh Khajavai** ، a frontend developer passionate about building cl
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,git,github,vite,vscode&theme=dark" alt="Frontend and development tools"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,tailwind,git,github,vite,vscode&theme=dark" />
 </p>
 
 <p align="center">
